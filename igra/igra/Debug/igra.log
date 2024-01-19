@@ -1,0 +1,23 @@
+﻿  Igra.cpp
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(242,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(242,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(255,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(255,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(265,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(265,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(275,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(275,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  igra.vcxproj -> C:\Users\Korisnik\source\repos\igra\Debug\igra.exe

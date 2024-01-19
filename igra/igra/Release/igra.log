@@ -1,0 +1,38 @@
+﻿  Igra.cpp
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(250,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(260,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(270,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(271,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(271,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(284,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(284,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(294,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(294,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(304,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(304,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(313,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(323,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(332,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(341,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(342,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(390,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(394,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\source\repos\igra\igra\Igra.cpp(398,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 307 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  igra.vcxproj -> C:\Users\Korisnik\source\repos\igra\Release\igra.exe
